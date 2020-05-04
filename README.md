@@ -2,7 +2,7 @@
 
 ![Screenshot of Map](/img/airportsinUS.jpg)
 *Screenshot of the map generated from Atom live server, showing the airports in the United States*
-
+[**Link**](https://tomtruong062399.github.io/geog458-airportsinUS/index.html)
 ---
 This map is visualizing all the **Airports in the United States**, including U.S. territories. The map is using two GeoJSON files, one for airport data in the United States *(airports.geojson)* and the other containing the 50 states + territory boundaries *(us-states.geojson)*.
 
